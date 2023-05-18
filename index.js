@@ -19,3 +19,5 @@ let person = {
 
 
 console.log(person);
+
+alert('welcome to my website!');
